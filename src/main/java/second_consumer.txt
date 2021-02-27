@@ -1,0 +1,7 @@
+Consumer2 message2 Partition:1
+Consumer2 message4 Partition:1
+Consumer2 message6 Partition:1
+Consumer2 message8 Partition:1
+Consumer2 message10 Partition:1
+Consumer2 message12 Partition:1
+Consumer2 message14 Partition:1
