@@ -3,7 +3,7 @@ package by.epam.kafka.task2.constant;
 public class Constant {
     public static final String BOOTSTRAP_SERVER_VALUE =  "localhost:9092";
     public static final String GROUP_ID = "my-group";
-    public static final String TOPIC = "Git";
+    public static final String TOPIC = "test28";
     public static final String HEADER = "Received new metadata. \n";
     public static final String TOPIC_STR = "Topic: ";
     public static final String PARTITION = "Partition: ";
