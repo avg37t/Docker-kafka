@@ -7,7 +7,7 @@ import static by.epam.kafka.task2.constant.Constant.*;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println();
+
 
         Producer producer = new Producer();
         Consumer consumer1 = new Consumer("Consumer1", ".\\src\\main\\java\\first_consumer.txt");
